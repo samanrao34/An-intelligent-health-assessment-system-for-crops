@@ -2,7 +2,7 @@
 
 ### Project Description
 This is an intelligent health assessment system for crops by using Yolov4. This system was after implemented on Jetson NVIDIA nano developer kit with Jetson camera and drone. Result video of output is shown below.
-
+Note: Video, On which trained model is implemented or tested, is taken through Drone.  
 
 
 https://user-images.githubusercontent.com/74836489/130927816-ccc39e2e-ffdf-4e6c-9fdc-51dcf59f6ee9.mp4
